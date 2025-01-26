@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Oi, eu sou Raudinei Mauricio<br>👀 Estou interessado em desenvolvimento de software, focando em Python e banco de dados SQL.<br>🌱 Atualmente estou cursando o terceiro semestre de Análise e Desenvolvimento de Sistemas.<br>💞️ Estou procurando ajudar e evoluir em projetos na área.<br>📫 Como me contatar: rjmauricio95@gmail.com ou no Instagram @rauljoga10_<br>😄 Pronomes: ele/dele<br>⚡ Curiosidade: não gosto de cebola!
+👋 Oi, eu sou Raudinei Mauricio<br>👀 Estou interessado em desenvolvimento de software, focando em Python e banco de dados SQL.<br>🌱 Atualmente estou cursando o Quarto semestre de Análise e Desenvolvimento de Sistemas.<br>💞️ Estou procurando ajudar e evoluir em projetos na área.<br>📫 Como me contatar: rjmauricio95@gmail.com ou no Instagram @rauljoga10_<br>😄 Pronomes: ele/dele<br>⚡ Curiosidade: não gosto de cebola!
 
 
 ## 🌐 Socials:
